@@ -2,6 +2,16 @@
 /*====GOOGLE FONTS======*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
+/*====GENSER CENTER VIDEO - CSS ======*/
+
+video.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
 /*====VARIABLES CSS ======*/
 :root{
     --header-height: 3rem;
